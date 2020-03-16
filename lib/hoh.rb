@@ -44,7 +44,7 @@ def naming_system
     
     {
       label: "Order"
-    },
+    }
     
     {
       label: "Species",
