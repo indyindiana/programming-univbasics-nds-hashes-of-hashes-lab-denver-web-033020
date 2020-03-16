@@ -46,6 +46,13 @@ def naming_system
       label: "Order"
     },
     
+    PORTION_4 = {
+      label: "Species",
+      sub_category: nil
+    }
+  }
+
+    
     
     
     
