@@ -31,7 +31,19 @@
 # }
 
 def naming_system
-  hoh = 
+  hoh = {
+    PORTION_1 = {
+      label: "Kingdom",
+      sub_category: {
+        label: "Phylum",
+        sub_category: {
+          label: "Class"
+        }
+      }
+    },
+    
+    
+    
   # Remember:
   #  Kingdom
   #  Phylum
